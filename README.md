@@ -1,6 +1,4 @@
-# Ein
-<space>
-Nhóm 5
+# Ein<space>Nhóm 5
 Vũ Đức Anh
 Đỗ Khắc Huy
 Trần Minh Cường

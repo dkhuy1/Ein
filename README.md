@@ -1,3 +1,2 @@
-# Ein
-Nhóm 5
-print("hello world")
+# Nhóm 5
+# hello-world
